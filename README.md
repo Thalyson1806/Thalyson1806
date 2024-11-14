@@ -1,17 +1,18 @@
-👋 Olá! Meu nome é Thalyson e sou um Desenvolvedor Fullstack com 21 anos!
-👀 Atualmente, estou explorando o mundo do Java, criando novos projetos sempre que posso e me aprofundando em tecnologias de ponta!
+👋 Olá! Meu nome é Thalyson e sou um Analista de Dados com 21 anos!
+👀 Apaixonado por dados e em constante aprendizado, estou sempre explorando novas maneiras de transformar dados em insights valiosos!
 
 Sobre mim:
-🎓 Back-end e Front-end: Tenho experiência em desenvolvimento tanto no back-end quanto no front-end.
 
-💻 Tecnologias: CSS, JavaScript, HTML, jQuery, SQL, Java, Python, MySQL, entre outras.
+📊 Análise de Dados: Experiência em manipulação, visualização e análise de dados para fornecer insights estratégicos.
 
-🌱 Aprendizado Atual: Estou constantemente aperfeiçoando minhas habilidades e buscando novas tecnologias para expandir meus conhecimentos.
+💻 Ferramentas e Tecnologias: Python, SQL, Excel Avançado (VBA), além de habilidades em CSS, JavaScript, HTML e MySQL.
 
-🎯 Objetivos: Colaborar em projetos desafiadores, onde possa contribuir com minha experiência e aprender ainda mais.
+🌱 Aprendizado Atual: Focado em aprimorar minhas habilidades em análise de dados e explorar novas ferramentas para visualização e automação de processos.
 
-⚡ Curiosidade: Sempre estou em busca de formas de otimizar e melhorar meu código!
+🎯 Objetivos: Colaborar em projetos de análise de dados e participar de estudos de caso para resolver problemas reais e tomar decisões baseadas em dados.
+
+⚡ Curiosidade: Fascinado por descobrir padrões escondidos e criar dashboards de fácil entendimento!
 
 📫 Como me encontrar:
-thalyson2203@gmail.com, 
+thalyson2203@gmail.com 
 [LinkedIn](https://www.linkedin.com/in/thalyson-lima-248510293/)
