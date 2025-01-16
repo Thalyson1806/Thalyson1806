@@ -1,18 +1,29 @@
-👋 Olá! Meu nome é Thalyson e sou um Analista de Dados com 21 anos!
-👀 Apaixonado por dados e em constante aprendizado, estou sempre explorando novas maneiras de transformar dados em insights valiosos!
+👋 Olá! Meu nome é Thalyson Lima
+Sou um Desenvolvedor Júnior Autodidata com experiência prática em Python, automação, integrações entre sistemas e habilidades em análise de dados. Estou sempre em busca de desafios que me permitam aprender e aplicar tecnologias para resolver problemas reais de forma eficiente.
 
-Sobre mim:
+🌟 Sobre mim
+💻 Desenvolvimento e Integração de Sistemas:
 
-📊 Análise de Dados: Experiência em manipulação, visualização e análise de dados para fornecer insights estratégicos.
+Conhecimento em desenvolvimento de APIs RESTful, integrando dados e sistemas para otimizar fluxos de trabalho.
+Experiência em manipulação e transformação de dados com Python, aplicando boas práticas de programação.
+Familiaridade com ferramentas como Git para versionamento de código e metodologias ágeis.
+📊 Análise de Dados e Automação:
 
-💻 Ferramentas e Tecnologias: Python, SQL, Excel Avançado (VBA), além de habilidades em CSS, JavaScript, HTML e MySQL.
+Experiência prática com Python, SQL e Excel (VBA) para automação de processos e geração de relatórios estratégicos.
+Criação de dashboards interativos utilizando ferramentas como Power BI para transformar dados em insights visuais.
+🌱 Aprendizado Atual:
 
-🌱 Aprendizado Atual: Focado em aprimorar minhas habilidades em análise de dados e explorar novas ferramentas para visualização e automação de processos.
+Aprofundando conhecimentos em integrações entre sistemas, DevOps (Docker, CI/CD) e ferramentas como MongoDB e Looker Studio.
+Aprendendo a implementar práticas de performance e segurança no desenvolvimento de software.
+🎯 Objetivos:
 
-🎯 Objetivos: Colaborar em projetos de análise de dados e participar de estudos de caso para resolver problemas reais e tomar decisões baseadas em dados.
+Desenvolver soluções escaláveis e eficientes, participando de projetos que envolvam integrações entre plataformas, automação de tarefas e otimização de processos.
+⚡ Curiosidade:
 
-⚡ Curiosidade: Fascinado por descobrir padrões escondidos e criar dashboards de fácil entendimento!
+Apaixonado por resolver problemas técnicos, criar soluções criativas e aprender novas tecnologias para ampliar meu impacto.
 
-📫 Como me encontrar:
-thalyson2203@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/thalyson-lima-248510293/)
+📫 Como me encontrar
+📧 Email: thalyson2203@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/thalyson-lima-248510293/)
+
+
