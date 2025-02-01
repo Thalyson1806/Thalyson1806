@@ -1,27 +1,19 @@
-👋 Olá! Meu nome é Thalyson Lima
-Sou um Desenvolvedor Júnior Autodidata com experiência prática em Python, automação, integrações entre sistemas e habilidades em análise de dados. Estou sempre em busca de desafios que me permitam aprender e aplicar tecnologias para resolver problemas reais de forma eficiente.
+Olá, sou um desenvolvedor multifacetado com experiência em Java, React, Python, SQL e VBA. Tenho uma paixão por criar soluções eficientes e automatizar processos para otimizar o tempo e os recursos.
 
-🌟 Sobre mim
-💻 Desenvolvimento e Integração de Sistemas:
+💡 Minhas especialidades incluem:
 
-Conhecimento em desenvolvimento de APIs RESTful, integrando dados e sistemas para otimizar fluxos de trabalho.
-Experiência em manipulação e transformação de dados com Python, aplicando boas práticas de programação.
-Familiaridade com ferramentas como Git para versionamento de código e metodologias ágeis.
-📊 Análise de Dados e Automação:
+Desenvolvimento Web: Criação de interfaces dinâmicas e responsivas usando React.
+Automação de Processos: Utilizo Python e VBA para construir automações e scripts que agilizam tarefas repetitivas, melhorando a eficiência de equipes e processos de negócios.
+Desenvolvimento de Aplicações: Tenho experiência com Java para construir soluções robustas, além de integrar com bancos de dados usando SQL.
+Análise de Dados e Relatórios: Uso ferramentas como Python e SQL para análise de dados, criação de relatórios e dashboards.
+🔧 Ferramentas que utilizo no dia a dia:
 
-Experiência prática com Python, SQL e Excel (VBA) para automação de processos e geração de relatórios estratégicos.
-Criação de dashboards interativos utilizando ferramentas como Power BI para transformar dados em insights visuais.
-🌱 Aprendizado Atual:
+Frameworks e bibliotecas como Spring Boot, Flask, Django, ReactJS.
+SQL e PostgreSQL para gerenciamento e manipulação de dados.
+VBA para automações e scripts em planilhas Excel.
+🌱 Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e contribuir com soluções inovadoras para o desenvolvimento de software e automação.
 
-Aprofundando conhecimentos em integrações entre sistemas, DevOps (Docker, CI/CD) e ferramentas como MongoDB e Looker Studio.
-Aprendendo a implementar práticas de performance e segurança no desenvolvimento de software.
-🎯 Objetivos:
-
-Desenvolver soluções escaláveis e eficientes, participando de projetos que envolvam integrações entre plataformas, automação de tarefas e otimização de processos.
-⚡ Curiosidade:
-
-Apaixonado por resolver problemas técnicos, criar soluções criativas e aprender novas tecnologias para ampliar meu impacto.
-
+📫 Sinta-se à vontade para entrar em contato, seja para trocar ideias, colaborar em projetos ou discutir novas oportunidades!
 📫 Como me encontrar
 📧 Email: thalyson2203@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/thalyson-lima-248510293/)
