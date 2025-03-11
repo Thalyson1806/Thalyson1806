@@ -16,6 +16,5 @@ VBA para automações e scripts em planilhas Excel.
 📫 Sinta-se à vontade para entrar em contato, seja para trocar ideias, colaborar em projetos ou discutir novas oportunidades!
 📫 Como me encontrar
 📧 Email: thalyson2203@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/thalyson-lima-248510293/)
 
 
