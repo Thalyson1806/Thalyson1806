@@ -40,7 +40,7 @@ Com uma base sólida em tecnologia e visão de negócio, contribuo para a **inte
 ## 📫 Contato
 
 - **Email**: [thalyson2203@gmail.com](mailto:thalyson2203@gmail.com)  
-- **LinkedIn**: *[(adicione aqui se tiver)*](https://www.linkedin.com/in/thalyson-lima-248510293/)  
+- **LinkedIn**: *[(https://www.linkedin.com/in/thalyson-lima-248510293/)*](https://www.linkedin.com/in/thalyson-lima-248510293/)  
 
 ---
 
