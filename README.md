@@ -20,7 +20,7 @@ Tenho experiência em **integração de sistemas ERP, PPCP e CRM**, criação de
 
 | Categoria         | Tecnologias                                           |
 |------------------|--------------------------------------------------------|
-| **Linguagens**   | PHP, JavaScript, Python, VBA                          |
+| **Linguagens**   | PHP, Java, JavaScript, Python, VBA                          |
 | **Frameworks**   | React.js, FastAPI, Laravel (em aprendizado), Flask    |
 | **Banco de Dados**| MySQL, PostgreSQL, SQL                               |
 | **BI & Dados**   | Power BI, Excel Avançado, Pandas, VBA                 |
