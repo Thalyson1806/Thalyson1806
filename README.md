@@ -1,6 +1,6 @@
 # Thalyson Lima dos Santos
 
-Desenvolvedor de Software com experiência prática em **PHP, JavaScript, React, Python, SQL e VBA**, atuando principalmente no desenvolvimento de **dashboards, automações e sistemas internos** voltados para ambientes industriais e corporativos.
+Desenvolvedor de Software com experiência prática em **PHP, Java, JavaScript, React, Python, SQL e VBA**, atuando principalmente no desenvolvimento de **dashboards, automações e sistemas internos** voltados para ambientes industriais e corporativos.
 
 Tenho experiência em **integração de sistemas ERP, PPCP e CRM**, criação de APIs e soluções orientadas à eficiência operacional, além de forte atuação na análise de dados para suporte à tomada de decisão.
 
