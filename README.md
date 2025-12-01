@@ -1,48 +1,67 @@
-# Thalyson Lima dos Santos
+🌐 Thalyson Lima dos Santos
 
-Desenvolvedor de Software com experiência prática em **PHP, Java, JavaScript, React, Python, SQL e VBA**, atuando principalmente no desenvolvimento de **dashboards, automações e sistemas internos** voltados para ambientes industriais e corporativos.
+Desenvolvedor de Software com experiência prática nas principais tecnologias do ecossistema moderno: C#, .NET, PHP, Java, JavaScript, React, Python, SQL, MongoDB e VBA. Atuo no desenvolvimento de APIs, integrações, automações e sistemas internos voltados para ambientes industriais, logísticos e corporativos.
 
-Tenho experiência em **integração de sistemas ERP, PPCP e CRM**, criação de APIs e soluções orientadas à eficiência operacional, além de forte atuação na análise de dados para suporte à tomada de decisão.
+Minha principal motivação é transformar processos complexos em soluções simples, eficientes e escaláveis — sempre com foco em produtividade, automação e valor real para o negócio.
 
----
+🧩 Especialidades
+Desenvolvimento Backend
 
-## 🧩 Especialidades
+C# com .NET e ASP.NET Core
 
-- **Desenvolvimento Web**: Interfaces dinâmicas com React, PHP e integração com sistemas legados.
-- **APIs REST**: Criação de APIs modernas utilizando FastAPI e PHP.
-- **Automação de Processos**: Scripts e automações com Python e VBA aplicados ao ambiente industrial.
-- **Business Analytics**: Desenvolvimento de dashboards com Power BI, React e SQL.
-- **Integração com Sistemas**: Experiência com ERP (TOTVS, ZionWMS, Tecnicon Business Suite), PPCP e CRM.
+Criação de APIs REST seguras e escaláveis
 
----
+Entity Framework Core, LINQ e automação de processos
 
-## 🛠️ Tecnologias e Ferramentas
+MongoDB, SQL Server, MySQL e PostgreSQL
 
-| Categoria         | Tecnologias                                           |
-|------------------|--------------------------------------------------------|
-| **Linguagens**   | PHP, Java, JavaScript, Python, VBA                          |
-| **Frameworks**   | React.js, FastAPI, Laravel (em aprendizado), Flask    |
-| **Banco de Dados**| MySQL, PostgreSQL, SQL                               |
-| **BI & Dados**   | Power BI, Excel Avançado, Pandas, VBA                 |
-| **Sistemas**     | TOTVS, ZionWMS, Tecnicon Business Suite               |
-| **Outros**       | APIs REST, JSON, Git, GitHub, Docker (básico)         |
+Desenvolvimento Web
 
----
+Interfaces dinâmicas com React.js, JavaScript e integração com sistemas legados
 
-## 📈 Perfil Profissional
+Aplicações PHP e integrações com bancos de dados relacionais e NoSQL
 
-Atuo com foco em resolver **demandas reais** da operação por meio de soluções tecnológicas funcionais, rápidas e seguras. Tenho facilidade em compreender fluxos de produção, análise de dados e necessidades de automação, transformando isso em código que entrega valor.
+APIs & Integrações
 
-Com uma base sólida em tecnologia e visão de negócio, contribuo para a **integração entre áreas operacionais e administrativas**, desenvolvendo ferramentas que auxiliam no desempenho e controle dos processos internos.
+Criação e consumo de APIs modernas com .NET, FastAPI e PHP
 
----
+Integração com ERP, PPCP, WMS e CRM
 
-## 📫 Contato
+Experiência com TOTVS, ZionWMS e Tecnicon Business Suite
 
-- **Email**: [thalyson1806@gmail.com](mailto:thalyson1806@gmail.com)  
-- **LinkedIn**: *[(https://www.linkedin.com/in/thalyson-lima-248510293/)*](https://www.linkedin.com/in/thalyson-lima-248510293/)  
+Automação de Processos
 
----
+Scripts e pipelines com Python
 
-_Agradeço pela visita ao meu perfil. Estou aberto a colaborações, novos desafios e oportunidades de contribuir com projetos que gerem impacto._
+Rotinas inteligentes em VBA integradas ao ambiente industrial
 
+Análise e tratamento de dados para suporte operacional
+
+Business Analytics & Data
+
+Desenvolvimento de dashboards em React, SQL e Power BI
+
+Processamento de dados com Pandas, SQL e automações híbridas
+
+🛠️ Tecnologias e Ferramentas
+Categoria	Tecnologias
+Linguagens	C#, PHP, Java, JavaScript, Python, VBA
+Frameworks	.NET / ASP.NET Core, Entity Framework Core, React.js, FastAPI, Laravel (aprendizado), Flask
+Bancos de Dados	SQL Server, MySQL, PostgreSQL, SQLite, MongoDB
+BI & Dados	Power BI, Excel Avançado, Pandas, VBA
+Sistemas	TOTVS, ZionWMS, Tecnicon Business Suite
+Outros	APIs REST, JSON, Git, GitHub, Docker (básico), Clean Code, SOLID
+📈 Perfil Profissional
+
+Atuo com foco total em resolver demandas reais da operação, desenvolvendo soluções funcionais, rápidas e seguras. Tenho facilidade em compreender o fluxo produtivo, analisar dados e identificar oportunidades de automação — transformando essas necessidades em código de alto impacto.
+
+Com visão técnica e de negócio, contribuo diretamente na integração entre áreas operacionais e administrativas, criando sistemas, scripts e dashboards que melhoram performance, controle e visibilidade dos processos internos.
+
+📫 Contato
+
+Email: thalyson1806@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/thalyson-lima-248510293/
+
+Obrigado pela visita!
+Estou aberto a colaborações, novos desafios e oportunidades para criar soluções que gerem impacto real.
