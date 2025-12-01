@@ -1,4 +1,5 @@
-Desenvolvedor de Software | Backend | C# .NET • React • Python • SQL • MongoDB
+Olá, eu sou Thalyson Lima
+💻 Desenvolvedor de Software | Backend | C# .NET • React • Python • SQL • MongoDB
 
 Apaixonado por criar sistemas eficientes, APIs robustas, automações inteligentes e soluções que conectam tecnologia com a operação real.
 
@@ -14,21 +15,24 @@ Banco de Dados
 <p> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </p>
 Outros
 <p> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/> </p>
-📊 Estatísticas do GitHub
-<div align="center">
-🔥 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonLima&layout=compact&theme=tokyonight" />
-🧮 Minhas Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ThalysonLima&show_icons=true&theme=tokyonight" />
-🚀 Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThalysonLima&theme=tokyonight" /> </div>
 📈 Sobre Mim
 
-Gosto de criar soluções que realmente resolvem problemas — seja automatizando processos industriais, integrando sistemas, criando APIs, ou desenvolvendo dashboards inteligentes.
+Tenho experiência prática no desenvolvimento de sistemas internos, automações, APIs REST e integrações entre áreas produtivas e administrativas.
+Trabalho com foco em eficiência, entregas limpas e facilidade de manutenção.
 
-Tenho experiência em ambientes corporativos e industriais, entendendo tanto a visão técnica quanto operacional.
+Costumo entender bem processos operacionais, o que me ajuda a criar soluções reais e funcionais tanto no backend quanto em dashboards e integrações.
 
-Sou movido por desafios, aprendizado constante e tecnologia que gera impacto real.
+🚀 Projetos que costumo desenvolver
+
+APIs REST com C# .NET, FastAPI e PHP
+
+Dashboards e automações com Python, Power BI e SQL
+
+Sistemas internos para produção, logística e controle de processos
+
+Front-ends simples e funcionais com React
+
+Integrações com ERP, WMS, PPCP e CRM
 
 📫 Contato
 
