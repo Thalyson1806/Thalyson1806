@@ -1,7 +1,7 @@
 Olá, eu sou Thalyson Lima
 💻 Desenvolvedor de Software | Backend | C# .NET • React • Python • SQL • MongoDB
 
-Apaixonado por criar sistemas eficientes, APIs robustas, automações inteligentes e soluções que conectam tecnologia com a operação real.
+Criação de sistemas eficientes, APIs robustas, automações inteligentes e soluções que conectam tecnologia com a operação real.
 
 🌐 Onde me encontrar
 <p align="left"> <a href="https://www.linkedin.com/in/thalyson-lima-248510293/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:thalyson1806@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
