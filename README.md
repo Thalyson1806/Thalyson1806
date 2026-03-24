@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Full Stack · São Paulo, Brasil<br/>
-  Apaixonado por construir sistemas completos, do banco de dados à interface.
+  
 </p>
 
 <p align="center">
