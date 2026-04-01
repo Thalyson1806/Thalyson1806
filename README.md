@@ -103,8 +103,7 @@ API REST de gerenciamento de tarefas com autenticação JWT, sistema de roles (A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thalyson1806&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalyson1806&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=Thalyson1806&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ---
